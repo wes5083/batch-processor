@@ -1,4 +1,4 @@
-# monitor XML file and move PDF and XML file into different folder
+# Monitor XML file and move PDF and XML file into different folder
 
 ## Download jar into your local
 
