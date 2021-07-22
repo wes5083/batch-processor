@@ -1,6 +1,10 @@
+# Batch process: monitor XML file and move PDF and XML file into different folder
+
 ## Download jar into your local
 
-for example local folder name is c:/00_zyw/batch-processor/batch-processor-1.0-SNAPSHOT.jar
+download the jar from [target/batch-processor-1.0-SNAPSHOT.jar] into your local folder.
+the jar folder for example: 
+  c:/batch-processor/batch-processor-1.0-SNAPSHOT.jar
 
 ## Create the file source folder `data/in` at the same  folder with jar, 
 
@@ -9,7 +13,7 @@ folder look like this:
 
 ## Run jar
 
-though terminal and into the same folder with jar. (  c:/00_zyw/batch-processor )
+though terminal and into the same folder with jar. (  c:/batch-processor/ )
 run jar:
   java -jar batch-processor-1.0-SNAPSHOT.jar
 
