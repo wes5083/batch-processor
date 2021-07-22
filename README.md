@@ -14,7 +14,7 @@ folder look like this:
 ## Run jar
 
 though terminal and into the same folder with jar. (  c:/batch-processor/ )
-run jar:
+make sure your JAVA environment,at least jdk11, then run jar:
   java -jar batch-processor-1.0-SNAPSHOT.jar
 
 ## Test the result
