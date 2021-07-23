@@ -8,7 +8,7 @@ public class Constants {
 	public static String FILE_SUFFIX_PDF = ".pdf";
 	public static String FILE_SUFFIX_XML = ".xml";
 
-	public static String PROJECT_ABSTRUCT_PATH = "user.dir";
+	public static String PROJECT_ABSOLUTE_PATH = "user.dir";
 
 	public static String ENCODING = "UTF-8";
 

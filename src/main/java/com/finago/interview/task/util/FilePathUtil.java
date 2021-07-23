@@ -54,7 +54,7 @@ public class FilePathUtil {
 	}
 
 	private static String getProjectAbsolutePath(String subPath) {
-		String path = System.getProperty(Constants.PROJECT_ABSTRUCT_PATH);
+		String path = System.getProperty(Constants.PROJECT_ABSOLUTE_PATH);
 		if (path == null) {
 			path = new File("").getAbsolutePath();
 		}
