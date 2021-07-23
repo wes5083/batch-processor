@@ -9,7 +9,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * get the file's md5 value
+ * get the PDF file's md5 value
  */
 public class MD5Util {
 
